@@ -15,3 +15,5 @@ for i in range (size):
 print("Original list:", d)
 selection_sort(d)
 print("Sorted list:", d)
+
+#NayanaTara

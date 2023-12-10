@@ -33,3 +33,5 @@ for i in range (size):
 print("before sorting:",list)
 merge(list)
 print("After sorting ",list)
+
+#NayanaTara

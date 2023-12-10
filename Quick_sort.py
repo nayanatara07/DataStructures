@@ -13,3 +13,4 @@ for i in range (size):
 res = quick_sort(d)
 print(res)  
 
+#NayanaTara
