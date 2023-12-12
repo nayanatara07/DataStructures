@@ -30,4 +30,4 @@ This repository contains implementations of various data structures and algorith
 ## Binary Tree
 - Implementation of a binary tree data structure.
 
-Feel free to explore the individual folders for detailed implementations and explanations.
+Feel free to explore the individual files for detailed implementations and explanations.
