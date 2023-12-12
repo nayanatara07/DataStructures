@@ -25,7 +25,7 @@ This repository contains implementations of various data structures and algorith
 
 ## Circular Linked Lists
 - [**Single Circular Linked List:**](Circular_SingleLL.py) Similar to a single linked list, but the last node points back to the first node.
-- [**Double Circular Linked List:**](Double_linkedlist.py) Similar to a double linked list, but the last node points back to the first node, and the previous pointer of the first node points to the last node.
+- [**Double Circular Linked List:**](Circular_DoubleLL.py) Similar to a double linked list, but the last node points back to the first node, and the previous pointer of the first node points to the last node.
 
 ## [Binary Tree](Binary_Tree.py)
 - Implementation of a binary tree data structure.
